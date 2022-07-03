@@ -6,12 +6,13 @@
 body{
     width: 500px;
     margin: auto;
-    background-color: gray;
+    background-color: rgba(208, 199, 199, 0.295);
 }
 h1{
     text-align: center;
     margin: 20px auto;
     color: white;
+    color: rgb(121, 74, 74);
     
 }
 p{
@@ -33,6 +34,11 @@ label{
 
 input{
     margin: 10px auto;
+    border: none;
+    height: 1.5em;
+    background-color: rgb(208, 205, 205);
+    outline: none;
+    padding: 5px;
     
 }
 button{
