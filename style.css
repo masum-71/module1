@@ -41,6 +41,10 @@ button{
     border: 1px solid;
 }
 
+button:hover{
+    cursor: pointer;
+    background-color: rgb(198, 246, 246);
+}
 .check{
     margin: 10px;
 }
