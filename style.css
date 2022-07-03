@@ -6,10 +6,12 @@
 body{
     width: 500px;
     margin: auto;
+    background-color: gray;
 }
 h1{
     text-align: center;
     margin: 20px auto;
+    
 }
 p{
     margin-bottom: 10px;
